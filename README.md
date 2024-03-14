@@ -8,10 +8,6 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 2. **Use Solutions as a Reference**: If you find yourself stuck or curious about different approaches, you can refer to the solutions provided here. They can serve as a starting point or help you in understanding the logic behind solving the problems.
 
-## Contribution
-
-Feel free to contribute by adding your own solutions or optimizing existing ones. Pull requests are welcome!
-
 ## Disclaimer
 
 Please note that while these solutions aim to provide helpful insights and approaches, they may not always be the most optimal or efficient solutions. The primary goal is to aid in understanding the problem-solving process.
