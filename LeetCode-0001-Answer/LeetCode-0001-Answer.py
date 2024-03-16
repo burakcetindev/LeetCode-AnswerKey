@@ -1,4 +1,4 @@
-// LeetCode-1-TwoSum
+# LeetCode-1-TwoSum
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         prevMap = {}  # val -> index
